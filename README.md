@@ -8,9 +8,15 @@ Nếu bạn muốn lưu tin nào xin hãy nhắn ở phần Issues.
 
 ## Cách dùng:
 Đơn giản hãy vào: https://paint827.github.io/index.html
-Ở đó sẽ có bảng điều hướng. Còn nếu bạn muốn vào thẳng thì chỉ cần cộng theo tên trang html bạn muốn vào
 
+Ở đó sẽ có bảng điều hướng.
+Còn nếu bạn muốn vào thẳng thì chỉ cần cộng theo tên trang html bạn muốn vào.
+
+##
 Cảm ơn DiscordChatExporter.
+
 Cảm ơn những người đã đưa tôi token :))
+
 Cảm ơn github ạ, nhưng cái repo này để public là một ý tưởng k hề hay :)))))
+
 P/s: give me money so I can upgrade my account :)))))
