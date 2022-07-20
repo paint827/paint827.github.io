@@ -7,7 +7,7 @@ Nếu bạn đã lặn được tới đây thì ờm, xin chúc mừng bạn đ
 Nếu bạn muốn lưu tin nào xin hãy nhắn ở phần Issues.
 
 ## Cách dùng:
-Đơn giản hãy vào: https://paint827.github.io/index.html
+Đơn giản hãy vào: https://paint827.github.io/
 
 Ở đó sẽ có bảng điều hướng.
 Còn nếu bạn muốn vào thẳng thì chỉ cần cộng theo tên trang html bạn muốn vào.
